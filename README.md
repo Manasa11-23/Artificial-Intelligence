@@ -1,2 +1,2 @@
-# 8-puzzle-3rd-March-
+AI
 8 puzzle program 
